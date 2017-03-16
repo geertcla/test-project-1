@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-change in master...mAsTeR
-=======
-change in master...TESTING
->>>>>>> testing
-testing 1
-change in br testing
-change 2 in br testing
-
-
-MASTER change !!!
+Totally different
